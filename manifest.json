@@ -1,0 +1,15 @@
+{
+  "name": "MY DAILY - Personal Routine Planner",
+  "short_name": "MY DAILY",
+  "description": "Personal routine, tasks, habits, focus timer and music player.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#090909",
+  "theme_color": "#f5c400",
+  "categories": [
+    "productivity",
+    "lifestyle"
+  ]
+}
